@@ -16,6 +16,7 @@ width: 500px;;
     background-image: url("img/crysis.jpg");  
     background-repeat: no-repeat;
     background-position: center;
+    background-size: cover;
 }
 
 .cim{
@@ -33,4 +34,5 @@ height:20%;
     background-image: url("img/warface.jpg");  
     background-repeat: no-repeat;
     background-position: center;
+    background-size: cover;
 }
