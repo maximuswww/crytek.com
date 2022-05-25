@@ -29,3 +29,10 @@ text-shadow:3px 3px 0px rgb(110, 0, 140);
 height:20%;
 
 }
+
+.background1{
+    background-image: url("img/warface.jpg");  
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
